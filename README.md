@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+...
+I can *almost* promise you that I will eventually write this "About me".
 <!--
 **Crowfunder/Crowfunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
