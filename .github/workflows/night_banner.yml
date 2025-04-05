@@ -1,0 +1,24 @@
+name: Set Night Image
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # Runs at 6:00 PM UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Replace with Night Image
+        run: cp assets/parts/night.gif assets/banner.gif
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/image.gif
+          git commit -m "Update image to night version" || echo "No changes"
+          git push
