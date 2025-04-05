@@ -1,0 +1,24 @@
+name: Set Day Image
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs at 6:00 AM UTC every day
+  workflow_dispatch:      # Allows manual run from GitHub UI
+
+jobs:
+  update-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Replace with Day Image
+        run: cp assets/parts/day.gif assets/image.gif
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/image.gif
+          git commit -m "Update image to day version" || echo "No changes"
+          git push
