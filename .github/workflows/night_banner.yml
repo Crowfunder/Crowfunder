@@ -17,8 +17,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Crowfunder"
+          git config user.email "52300171+Crowfunder@users.noreply.github.com"
           git add assets/banner.gif
           git commit -m "Update image to night version" || echo "No changes"
           git push
