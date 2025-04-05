@@ -1,4 +1,4 @@
-![](https://github.com/Crowfunder/Crowfunder/blob/main/assets/banner.gif?raw=true)
+![](https://raw.githubusercontent.com/Crowfunder/Crowfunder/refs/heads/main/assets/banner.gif?)
 # Hello There! 
 I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obscure computer games, malware, <br>Android reverse engineering or 3D model formats. Open for job offers.
 
@@ -16,5 +16,5 @@ I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obs
 [![](https://cyber.dabamos.de/88x31/vscbutton.gif)](https://code.visualstudio.com/)[![](https://cyber.dabamos.de/88x31/discord2.gif)](https://discord.gg/RAf499a)[![](https://cyber.dabamos.de/88x31/ddg.gif)](https://duckduckgo.com)[![](https://cyber.dabamos.de/88x31/firefox3.gif)](https://www.mozilla.org/en-US/firefox/new/)[![](https://cyber.dabamos.de/88x31/get_java.gif)](https://www.java.com/pl/download/manual.jsp)[![](https://cyber.dabamos.de/88x31/gimp.gif)](https://www.gimp.org/downloads/)[![](https://cyber.dabamos.de/88x31/github.gif)](https://github.com/Crowfunder)![](https://cyber.dabamos.de/88x31/hair.gif)[![](https://cyber.dabamos.de/88x31/irfan.gif)](https://www.irfanview.com/)<br>
 ![](https://cyber.dabamos.de/88x31/letsnotencrypt.gif)[![](https://cyber.dabamos.de/88x31/notepadpp2.gif)](https://notepad-plus-plus.org/downloads/)![](https://cyber.dabamos.de/88x31/pokemon.gif)[![](https://cyber.dabamos.de/88x31/scottgames.gif)](https://scottgames.com/)![](https://cyber.dabamos.de/88x31/screw.gif)![](https://cyber.dabamos.de/88x31/cc-some.gif)
 
-![](https://github.com/Crowfunder/Crowfunder/blob/main/assets/banner.gif?raw=true)
+![](https://raw.githubusercontent.com/Crowfunder/Crowfunder/refs/heads/main/assets/banner.gif?)
 
