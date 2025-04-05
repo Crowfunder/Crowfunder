@@ -1,5 +1,3 @@
-<div style="max-width: 800px" width=800>
-
 ![](https://github.com/Crowfunder/Crowfunder/blob/main/assets/banner.gif?raw=true)
 # Hello There! 
 I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obscure computer games, malware, <br>Android reverse engineering or 3D model formats. Open for job offers.
@@ -20,5 +18,3 @@ I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obs
 
 ![](https://github.com/Crowfunder/Crowfunder/blob/main/assets/banner.gif?raw=true)
 
-
-</div>
