@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/Crowfunder/Crowfunder/refs/heads/main/assets/banner.gif?)
-# Hello There! 
+![](https://raw.githubusercontent.com/Crowfunder/Crowfunder/refs/heads/main/assets/greeting.png?)
 I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obscure computer games, malware, <br>Android reverse engineering or 3D model formats. Open for job offers.
 
 **What I'm working on currently:**
