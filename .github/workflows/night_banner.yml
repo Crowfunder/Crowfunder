@@ -13,12 +13,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Replace with Night Image
-        run: cp assets/parts/night.gif assets/banner.gif
+        run: |
+          cp assets/parts/night.gif assets/banner.gif
+          cp assets/parts/good_evening.png assets/greeting.png
 
       - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/banner.gif
+          git add assets/greeting.png
           git commit -m "Update image to night version" || echo "No changes"
           git push
