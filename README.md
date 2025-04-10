@@ -9,9 +9,10 @@ I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obs
 - Functional Programming Course - A simple introduction to Functional Programming for humans.
 - IMSI Catcher - Confidential! 
 
-*And more to come!*
-
-![stats2](https://github-readme-stats.vercel.app/api?username=crowfunder&count_private=true&show_icons=true&theme=radical) ![stats1](https://github-readme-stats.vercel.app/api/top-langs/?username=crowfunder&layout=compact&theme=radical) 
+*And more to come!*<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=crowfunder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crowfunder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 [![](https://cyber.dabamos.de/88x31/vscbutton.gif)](https://code.visualstudio.com/)[![](https://cyber.dabamos.de/88x31/discord2.gif)](https://discord.gg/RAf499a)[![](https://cyber.dabamos.de/88x31/ddg.gif)](https://duckduckgo.com)[![](https://cyber.dabamos.de/88x31/firefox3.gif)](https://www.mozilla.org/en-US/firefox/new/)[![](https://cyber.dabamos.de/88x31/get_java.gif)](https://www.java.com/pl/download/manual.jsp)[![](https://cyber.dabamos.de/88x31/gimp.gif)](https://www.gimp.org/downloads/)[![](https://cyber.dabamos.de/88x31/github.gif)](https://github.com/Crowfunder)![](https://cyber.dabamos.de/88x31/hair.gif)[![](https://cyber.dabamos.de/88x31/irfan.gif)](https://www.irfanview.com/)<br>
