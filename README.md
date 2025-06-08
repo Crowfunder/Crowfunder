@@ -6,7 +6,7 @@ I'm Crowfunder, an aspiring developer tinkering with a lot of stuff, such as obs
 **What I'm working on currently:**
 - [Cogmaster](https://github.com/Crowfunder/Cogmaster) - An application serving numerous utilities and information usable for Spiral Knights modders.
 - [Dynamic GitHub Profile](https://github.com/Crowfunder/Crowfunder) - Way to have a dynamic, self-hosted, free, customized GitHub profile reacting to,<br> for an instance, time of the day. (Like this one! Come visit in the day/night!)
-- Functional Programming Course - A simple introduction to Functional Programming for humans.
+- A distributed library application.
 - IMSI Catcher - Confidential! 
 
 *And more to come!*<br>
